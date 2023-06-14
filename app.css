@@ -1,3 +1,4 @@
+/*======= VARIABLES ======= */
 body {
      padding: 300px;
      margin: 10px;
@@ -23,7 +24,7 @@ h1 {
 }
 
 
-
+/*======= BUTTON VARIABLES =======  */
 #countLabel {
      display: block;
      text-align: center;
